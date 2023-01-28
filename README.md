@@ -1,2 +1,5 @@
-# teste-aula1
+	# teste-aula1
 teste de aprendizagem
+
+
+auteração feita
